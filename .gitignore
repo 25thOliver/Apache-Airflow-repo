@@ -1,0 +1,7 @@
+# Ignore specific file
+dags/binance.py
+
+# Ignore specific folder
+
+# Always ignore Python cache
+dags/__pycache__/
